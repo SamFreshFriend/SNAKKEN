@@ -1,4 +1,4 @@
-# SNAKKEN
-EERSTE NAK SNAKKER
+# SNAKe
 
-Pankiehankie hay
+python practice project 
+(first ever program i've written ;-))
